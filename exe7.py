@@ -1,3 +1,4 @@
+print("joao henrique")
 nome = input("insira seu nome:")
 num = int(input("insira um numero:"))
 if num <10:
@@ -6,4 +7,3 @@ if num <10:
 else:
     for i in range(3):
         print("numero muito alto!")
-print("joão henrique")

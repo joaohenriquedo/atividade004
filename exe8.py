@@ -1,3 +1,4 @@
+print("joao henrique")
 total = 0
 for i in range(5):
     num = int(input("insira 5 numeros"))
@@ -5,5 +6,5 @@ for i in range(5):
     if inc.lower() == "s":
         total+= num
         print("o total de numeros incluidos é", total)
-print("joão henrique")
+
        

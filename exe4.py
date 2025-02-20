@@ -1,3 +1,4 @@
+print("joao henrique")
 nome = input("insira seu nome:")
 numero = int(input("insira um numero"))
 for i in range(numero):
